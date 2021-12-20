@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news_app">News App</string>
+    <string name="category">Category</string>
+    <string name="news_heading">News Heading</string>
+    <string name="sub_heading">Sub Heading</string>
+    <string name="title">Title</string>
+    <string name="sub_description">Sub Description</string>
+    <string name="content">Content</string>
+    <string name="read_full_news">Read full News</string>
+    <string name="todo">TODO</string>
+    <string name="search">Search</string>
+
+</resources>
